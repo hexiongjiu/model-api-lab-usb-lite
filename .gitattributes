@@ -1,0 +1,8 @@
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.txt text eol=crlf
+*.exe binary
+*.png binary
+*.woff binary
+*.woff2 binary
+/dist/** -text

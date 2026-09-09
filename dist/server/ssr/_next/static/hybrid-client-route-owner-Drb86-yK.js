@@ -1,0 +1,1 @@
+import"./hybrid-client-route-owner-direct-rA_Isn5M.js";function e(e,t){return null}function t(e,t){return null}export{e as resolveHybridClientRewriteHref,t as resolveHybridClientRouteOwner};
